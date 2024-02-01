@@ -1,4 +1,4 @@
-name: Deploy website and Data Demo
+name: Job artiacts
 on:
   push:
     branches:
